@@ -1,0 +1,9 @@
+Resultados:
+Cantidad: 1977
+Media: 250.7840161861406
+Mediana: 247.0
+Moda: 230.0
+Desviaci�n est�ndar: 144.17131868884059
+Varianza: 20785.369132479238
+
+Tiempo transcurrido: 0.007969379425048828 segundos
